@@ -17,7 +17,7 @@ setup(
     install_requires=install_requires,
     setup_requires=setup_requires,
     scripts=[
-        'scripts/filehash',
-        'scripts/jpgscan'
+        'scripts/filehash.py',
+        'scripts/jpgscan.py'
     ],
 )
